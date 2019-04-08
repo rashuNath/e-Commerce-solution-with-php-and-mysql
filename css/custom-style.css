@@ -1,0 +1,89 @@
+/*UTILITY CLASSES*/
+.padding-top-thirty{
+    padding-top:30px;
+}
+.padding-left-20{
+    padding-left:20px;
+}
+
+
+
+input[type="text"]:focus, input[type="password"]:focus, textarea:focus, textarea.form-control:focus,select.form-select:focus{
+    background-color: rgba(37, 37, 37, 0.14)!important;
+}
+select.form-control
+.form-top-right {
+    float: left;
+    width: 20%;
+    padding-top: 5px;
+    font-size: 66px;
+    color: #ddd;
+    line-height: 100px;
+    text-align: right;
+}
+.form-top {
+    overflow: hidden;
+    padding: 0 25px 15px 25px;
+    background: #fff;
+    -moz-border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+    text-align: left;
+}
+.form-top-left{
+    float: left;
+    margin-top: 30px;
+}
+
+.registration-box{
+    width:500px;
+}
+
+.input-group{
+    margin-bottom:20px;
+}
+.input-group-addon{
+    padding:10px;
+    background-color: rgba(108, 108, 108, 0.17);
+    /*color: rgba(219, 219, 219, 0.59);*/
+}
+.wrap-pic-w img{
+    height:280px;
+}
+.block2-labelnew::before {
+    background-color: #66a8a6;
+    content: none;
+}
+
+.p-b-54{
+    height:300px;
+    overflow:auto;
+}
+
+tbody tr td:last-child{
+    text-align:center!important;
+}
+.style-span a{
+    font-weight:600;
+    color:#e65540;
+}
+.style-span a:hover{
+    text-decoration: dotted;
+}
+.block2-btn-towishlist, .block2-btn-addwishlist{
+    display:none!important;
+}
+.margin-bottom-40{
+    margin-bottom:40px;
+}
+
+.display-none{
+    display:none;
+}
+.transaction-id{
+   border:2px solid #e6e6e6!important;
+}
+
+.custom-badge{
+    background-color:#222222;
+}
